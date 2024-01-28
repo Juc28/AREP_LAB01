@@ -45,7 +45,7 @@ Licenciado por GNU General Public License v3.0 [LICENSE](https://github.com/Juc2
 # Referencias 
 
 - https://www.geeksforgeeks.org/concurrenthashmap-in-java/
-- 
+- https://youtu.be/SkQL3eT3nTU?si=PNSJO0MC6aN-lB5g
 
 # Autor 
 Erika Juliana Castro Romero [Juc28](https://github.com/Juc28)
